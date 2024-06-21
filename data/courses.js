@@ -1,13 +1,13 @@
 let courses = [
   { 
       id: 1,
-      title: "js course",
-      price: 1000
+      title: "c# course",
+      price: 700
   },
   {
       id: 2,
-      title: "React course",
-      price: 800
+      title: "java course",
+      price: 200
   }
 ]
 
