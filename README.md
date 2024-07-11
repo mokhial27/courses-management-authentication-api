@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/courses-management-and-authentication-api.git
+   git clone https://github.com/mokhial27/courses-management-and-authentication-api.git
    cd courses-management-and-authentication-api
    ```
 
